@@ -14,7 +14,7 @@
 - **一键聚焦**：通知包含点击操作，尝试聚焦 Harness 窗口。
 
 ## 文件结构
-
+text
 dsh-notifier/
 ├── package.json # 插件包元数据
 ├── src/
