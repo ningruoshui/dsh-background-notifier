@@ -14,7 +14,7 @@
 - **一键聚焦**：通知包含点击操作，尝试聚焦 Harness 窗口。
 
 ## 文件结构
-text
+```
 dsh-notifier/
 ├── package.json # 插件包元数据
 ├── src/
@@ -22,7 +22,7 @@ dsh-notifier/
 │ └── client.js # 渲染进程监测脚本（注入到 Web UI）
 ├── config.js # 默认配置（可选，可合并到 client.js）
 └── README.md # 本文件
-text
+```
 
 
 ## 安装方法
