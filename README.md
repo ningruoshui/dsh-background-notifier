@@ -1,6 +1,6 @@
 # DSH Notifier – 后台确认提醒插件
 
-[English](README-en.md) | [简体中文](README.zh.md)
+[English](README-en.md) | [简体中文](README.md)
 
 当 DeepSeek Harness 中的 AI Agent 需要用户确认、授权或询问时，如果 Harness 应用处于后台（最小化、失焦或标签页未激活），本插件会发送系统桌面通知，避免用户错过重要交互请求。
 
