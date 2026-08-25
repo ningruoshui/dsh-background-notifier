@@ -1,6 +1,6 @@
 # DSH Notifier – Background Confirmation Reminder
 
-[English](README-en.md) | [简体中文](README-zh.md)
+[English](README-en.md) | [简体中文](README.md)
 
 When the AI Agent in DeepSeek Harness requires user confirmation, authorization, or asks a question, and the application is in the background (minimized, unfocused, or tab inactive), this plugin sends a system desktop notification to avoid missing important interactions.
 
